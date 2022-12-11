@@ -1,0 +1,22 @@
+clean devcss files
+test search and insert on youtube playlist
+diydomebuilders dynamic webpage generation, execute file as script/json then save as html.
+
+need a snippet library to organize first
+save snippets
+make files and directories loopable, add as snippets into library
+capable of bundling files through selection in snippet library
+
+	clean rhythms scripts
+setup text editor for use in chromium, codemirror and monaco and ace tests
+full featured like mousepad on linux, use as template
+
+make html files for task list and pictured examples of features to be implemented
+documentation of rhythm patterns, godfried toussaints books page number and examples.
+
+
+DEVSAND should contain
+SNIPPET LIBRARY
+CONVERTER
+CONSOLE
+FILE CONVERSION (CSV <> JSON)
