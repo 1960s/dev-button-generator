@@ -1,0 +1,146 @@
+  /* flexbox for iframe and textarea*/
+
+
+  body {
+    font-size: 14px;
+    overflow-y: scroll;
+  }
+
+  .flexer{
+    display: flex;
+  }
+
+  /* text area box sizing */
+
+
+  .sizetextarea {
+    width: 1000px;
+    height: 700px;
+    resize: both;
+  }
+
+  /* iframe sizing */
+  .sizeiframe {
+    width: 99.9999999%;
+  }
+
+  /* button columns into rows */
+  .columnrows{
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  /* button organization into columns */
+  .column{
+    display: block;
+  }
+
+
+  /* button size and styling*/
+  .btnstyl{
+    font-weight: bolder;
+    font-size: 10px;
+  }
+
+  /* button size and styling*/
+  .btnstylinfo{
+    font-weight: bolder;
+    font-size: 16px;
+  }
+
+  .button{
+    font-size: 12px;
+	  vertical-align:35%;
+  }
+
+  .boxes{
+    background-color: aquamarine;
+    display: inline-block;
+  }
+
+  .centerMe{
+    text-align: center;
+  }
+
+
+  /* TABS TOOLBAR */
+
+  /* Style the tab */
+  .tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+  }
+
+  /* Style the buttons inside the tab */
+  .tab button {
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 4px 6px;
+    transition: 0.3s;
+    font-size: 12px;
+  }
+
+
+  /* Create an active/current tablink class */
+  .tab button.active {
+    background-color: #ccc;
+  }
+
+  /* Style the tab content */
+  .tabcontent {
+    display: none;
+  }
+
+  .juice {
+    display: inline !important;
+	  
+  }
+
+  .gummy{
+    font-weight:900;
+	  vertical-align:35%;
+  }
+
+
+
+.dropdown {
+overflow: hidden;
+position: relative;
+display: inline-block;
+}
+
+.dropdown-content {
+display: none;
+position: fixed;
+background: white;
+z-index: 1;
+}
+
+.dropdown-content button {
+display: inline-block;
+}
+
+.dropdown:hover .dropdown-content {
+display: inline-block;
+}
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
